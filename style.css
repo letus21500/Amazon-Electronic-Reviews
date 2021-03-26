@@ -1,0 +1,21 @@
+*{
+	margin:0;
+	padding:0;
+	text-decoration:none;
+
+	text-align: center;
+}
+
+
+.stButton>button {
+	color: #6ab04c;
+	border-radius: 60%;
+	border-color: #6ab04c;
+}
+
+.stButton>button:hover{
+	background-color: #6ab04c;
+	color : black;
+
+}
+
