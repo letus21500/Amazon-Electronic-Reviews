@@ -6,6 +6,7 @@ from textblob import TextBlob
 from textblob import Word
 import string
 import nltk
+nltk.download()
 import re
 from IPython.display import display # Allows the use of display() for DataFrames
 import warnings
