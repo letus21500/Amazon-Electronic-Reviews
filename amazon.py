@@ -9,6 +9,9 @@ import re
 from IPython.display import display # Allows the use of display() for DataFrames
 import warnings
 warnings.filterwarnings('ignore')
+import subprocess
+cmd=['python3','-m','textblob.download_corpora']
+subprocess.run(cmd)
 
 def local_css(file_name):
     with open(file_name) as f:
