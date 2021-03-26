@@ -4,9 +4,10 @@ Have you ever seen a review that is given positively but has only a 1-star ratin
 
 Here are some examples:
 
-![WhatsApp Image 2021-03-19 at 18 09 39](https://user-images.githubusercontent.com/31875465/112630547-bb459600-8e5b-11eb-9edf-bde724e66980.jpeg)
+![Review1](https://user-images.githubusercontent.com/31875465/112632840-a585a000-8e5e-11eb-9a56-4162af70ac5b.jpeg)
 
-![WhatsApp Image 2021-03-19 at 18 15 17](https://user-images.githubusercontent.com/31875465/112630557-bf71b380-8e5b-11eb-9400-61084398754e.jpeg)
+![Review2](https://user-images.githubusercontent.com/31875465/112632865-acacae00-8e5e-11eb-91e2-d90f472f48bc.jpeg)
+
 
 We don't want such reviews since they can affect our business.
 The solution for this is what my streamlit app all about.
